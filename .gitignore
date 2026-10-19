@@ -1,0 +1,10 @@
+# Java compiled files
+bin/
+*.class
+
+# Eclipse workspace settings
+.settings/
+
+# Local database credentials
+db.properties
+.env
